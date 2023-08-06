@@ -5,7 +5,9 @@
 
 ## Usage 
 Type npm i into the integrated terminal to install dependencies.
+
 Type npm start to launch the application.
+
 Open your browser and navigate to http://localhost:3000/
 
 ## Istallation
